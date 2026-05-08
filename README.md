@@ -56,7 +56,7 @@ I enjoy building systems that solve real-world problems while helping upcoming d
 
 # 📌 Featured Projects
 
-## 🩺 DosePal ![live link](https://dosepal.com.ng/)
+## 🩺 DosePal 
 A health-tech medication adherence platform designed to help clinics monitor patient medication schedules and automate reminder systems.
 
 ### Core Features
@@ -65,7 +65,8 @@ A health-tech medication adherence platform designed to help clinics monitor pat
 - Automated medication reminders
 - Secure authentication system
 
----
+## 🌐 Live Demo
+🔗 https://dosepal.com.ng
 
 ## 🎓 QTrack Platinum
 QR-powered attendance verification system built to reduce attendance fraud and automate reporting workflows in educational institutions.
@@ -80,6 +81,10 @@ QR-powered attendance verification system built to reduce attendance fraud and a
 
 ## 🌍 TNG Impact Platform
 Production-ready NGO platform supporting digital outreach, initiative management, and media systems.
+
+## 🌐 Live Demo
+
+🔗 https://tngimpact.org/
 
 ### Responsibilities
 - Backend development
