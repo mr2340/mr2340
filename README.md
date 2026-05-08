@@ -56,7 +56,7 @@ I enjoy building systems that solve real-world problems while helping upcoming d
 
 # 📌 Featured Projects
 
-## 🩺 DosePal
+## 🩺 DosePal ![live link](https://dosepal.com.ng/)
 A health-tech medication adherence platform designed to help clinics monitor patient medication schedules and automate reminder systems.
 
 ### Core Features
